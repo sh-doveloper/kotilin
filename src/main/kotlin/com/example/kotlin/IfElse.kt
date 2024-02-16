@@ -17,6 +17,7 @@ fun main(){
     }else{
         "아이"
     }
+
     println(str)
 
     // 코틀린은 삼항연산자 없다. if else 표현식으로 불필요
