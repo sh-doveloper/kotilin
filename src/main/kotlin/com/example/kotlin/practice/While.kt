@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.practice
 
 fun main() {
     // 자바의 while문과 동일

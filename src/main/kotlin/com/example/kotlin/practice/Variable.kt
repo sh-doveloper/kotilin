@@ -1,3 +1,5 @@
+package com.example.kotlin.practice
+
 // 탑레벨에 위치한 변수
 var x = 4
 fun main() {

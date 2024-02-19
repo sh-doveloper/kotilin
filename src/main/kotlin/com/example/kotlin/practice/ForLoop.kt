@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.practice
 
 fun main() {
     // 범위 연산자
